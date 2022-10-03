@@ -5,13 +5,33 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Sobre Nós. ",
+    "list": [
+      {
+        "text": "Política de privacidade",
+        "url": "Nos comprometemos a preservar os dados de todos os clientes, informações importantes como senha e CPF são criptografadas no momento do cadastro, antes de serem salvas. A finalização da sua compra será realizada em ambiente seguro e nenhuma informação relacionada a cartões de crédito ou contas bancárias será armazenada em nossos bancos de dados. Os dados cadastrais dos clientes não são vendidos, trocados ou divulgados para terceiros, exceto quando essas informações são necessárias para o processo de entrega, para cobrança, ou para participação em promoções solicitadas pelos clientes. Seus dados pessoais são peça fundamental para que seu pedido chegue em segurança, na sua casa, de acordo com nosso prazo de entrega. Nosso site utiliza cookies e informações de sua navegação (sessão do browser) com o objetivo de traçar um perfil do público que visita o site e aperfeiçoar sempre nossos serviços, produtos, conteúdos e garantir as melhores ofertas e promoções para você. Estas informações são registradas automaticamente e serão mantidas em sigilo absoluto. Qualquer alteração sobre nossa política de privacidade será devidamente informada nesta página."
+      },
+      {
+        "text": "Quem somos. ",
+        "url": "Somos uma marca criada a partir do amor pela moda e queremos entregar a você esse amor em forma de roupas que são tendência no mundo fashion."
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "Nossa loja está totalmente integrada com InfinitePay para pagamentos via Cartão de Crédito e Pix.  O parcelamento pode ser em até 6x sem juros.  Bandeiras aceitas: Aceitamos todas as principais bandeiras.  Os dados do seu cartão são Criptografados por SSL (não ficam salvos e ninguém da nossa equipe tem acesso a esses dados). São 100% confiável.   Após inserir os dados do cartão, o sistema do site fará uma análise (para se certificar de que o cartão é realmente seu, limite do cartão, etc.), após essa conferência, aprova a compra.  Caso o pagamento não seja aprovado (por limite, dados inválidos, ou qualquer outro motivo) a compra é automaticamente cancelada, os produtos voltam para o estoque e então você terá que tentar refazer compra utilizando outro cartão."
+      },
+      {
+        "url": "Entregamos em todo o território nacional todos os produtos disponíveis à venda no site.  As entregas são realizadas de segunda à sexta-feira.  Caso você seja de GUAÇUI, temos duas opções para você: \"RETIRAR NA LOJA\"  - sendo assim você tem que vir pessoalmente retirar sua compra já paga, ou caso queira que alguém retire no seu lugar, tem que nos passar o nome e RG da pessoa para autorizar retirar a encomenda em seu nome, ok? Já a segunda opção é \"ENTREGUE POR JS\", nessa nós cobramos uma pequena taxa que você verá no final da sua compra.",
+        "text": "Condições de entrega."
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "title": "",
+    "list": [
+      {},
+      {}
+    ]
   },
   "contacts": {
     "title": "Contatos",
