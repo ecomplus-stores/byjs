@@ -1,5 +1,6 @@
 {
-  "domain": "byjs.netlify.app",
+  "domain": "www.byjs.com.br",
+  "repository": "ecomplus-stores/byjs",
   "currency_symbol": "R$",
   "primary_color": "#c2c6ce",
   "theme": {
