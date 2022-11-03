@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ded4893d87bd511af4dac29f49bd5f2b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2e87d737ee60f29d1130c8046ee8aeef.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e8dc4b5d56f545225804386b6639df16.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.07fb4468ea1ecde48074aeb53121fdb0.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f2db667a3ec285c234b34737fc49ed69.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "JS",
+  "short_name": "JS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "JU SCHUARTZ",
+  "background_color": "#ffffff",
+  "theme_color": "#c2c6ce"
+}
